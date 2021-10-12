@@ -3,6 +3,6 @@
 
 <@c.page>
     <@l.logout/>
-    <div>Hello, ${user.getUsername()}!</div>
+    <div>Hello!</div>
     <a href="/main">Main page</a>
 </@c.page>
