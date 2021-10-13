@@ -2,7 +2,6 @@
 <#import "parts/login.ftl" as l>
 
 <@c.page>
-    <@l.logout/>
-    <div>Hello!</div>
-    <a href="/main">Main page</a>
+    <h5>Hello</h5>
+    <div>Simple clone of Twitter</div>
 </@c.page>
